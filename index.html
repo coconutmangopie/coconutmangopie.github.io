@@ -169,6 +169,13 @@
       <div class="section-box">
         <div class="section-text">
           This is a place I list all the things happen around me in an ordinary day.
+          <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
         </div>
         
       </div>
