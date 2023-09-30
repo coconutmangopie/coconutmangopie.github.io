@@ -57,11 +57,11 @@ font-size: 16px;
 
 li a:hover:not(.active) {
 background-color: #ffffff;
-color: #ad039f;
+color: #ff9100;
 }
 
 .section-title{
-    font-size: 50px;
+    font-size: 30px;
     color: #110c57;
 }
 
