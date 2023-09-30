@@ -118,15 +118,15 @@ font-family: Poppins;
 
 .button{
     margin: 10px;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     background-color: #ff9100;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: column;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    /* margin-top: 50px;
+    margin-bottom: 50px; */
     font-family: Poppins;
     font-size: 25px;
 }
