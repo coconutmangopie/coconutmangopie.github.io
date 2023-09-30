@@ -128,6 +128,7 @@ font-family: Poppins;
     margin-top: 50px;
     margin-bottom: 50px;
     font-family: Poppins;
+    font-size: 25px;
 }
 
 .button:hover:not(.active) {
