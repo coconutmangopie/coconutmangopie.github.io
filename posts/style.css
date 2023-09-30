@@ -120,7 +120,7 @@ font-family: Poppins;
     margin: 10px;
     width: 200px;
     height: 200px;
-    color: #ff9100;
+    background-color: #ff9100;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -132,7 +132,7 @@ font-family: Poppins;
 }
 
 .button:hover:not(.active) {
-    color:aquamarine;
+    background-color:aquamarine;
 }
 
 
