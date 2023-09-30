@@ -1,2 +1,4 @@
-# coconutmangopie.github.io
-my_diary
+This is the a place I store my diaries. 
+
+
+https://coconutmangopie.github.io
