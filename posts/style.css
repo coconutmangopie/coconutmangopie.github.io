@@ -115,3 +115,21 @@ font-family: Poppins;
     margin: 10px;
     font-family: Poppins;
 }
+
+.button{
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    color: #ff9100;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Poppins;
+}
+
+.button:hover:not(.active) {
+    color:aquamarine;
+    }
