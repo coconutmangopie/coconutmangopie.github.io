@@ -116,7 +116,7 @@ font-family: Poppins;
     font-family: Poppins;
 }
 
-.button{
+a.button{
     margin: 10px;
     width: 100px;
     height: 100px;
@@ -129,10 +129,12 @@ font-family: Poppins;
     margin-bottom: 50px; */
     font-family: Poppins;
     font-size: 25px;
+    cursor: pointer;
 }
 
-.button:hover:not(.active) {
+a.button:hover:not(.active) {
     background-color:aquamarine;
+    cursor: pointer;
 }
 
 
