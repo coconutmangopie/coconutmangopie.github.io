@@ -149,3 +149,8 @@ a.button:hover:not(.active) {
     justify-content: center;
     font-family: Poppins;
 }
+
+.section-blog{
+    margin-left: 10px;
+    margin-right: 10px;
+}
